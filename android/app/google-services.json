@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "255312677677",
+    "project_id": "authtest-matt",
+    "storage_bucket": "authtest-matt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255312677677:android:77e84501a6b9ec7b87a1a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255312677677-oakfuvqgsthnc0f65p4pttaikisafg64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVUMUE7ZYXMKQ2tLyTvj2hi3VrLW-P60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255312677677-oakfuvqgsthnc0f65p4pttaikisafg64.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255312677677-dv0og83el7o95l4skqcpdfg945ke8u61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplicationAuthtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
